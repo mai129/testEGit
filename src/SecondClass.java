@@ -10,6 +10,7 @@ public class SecondClass {
 	
 	public void doSmth() {
 		System.out.println("Alex");
+		System.out.println("test");
 	}
 
 }
