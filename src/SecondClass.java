@@ -7,5 +7,9 @@ public class SecondClass {
 	public void foo() {
 		
 	}
+	
+	public void doSmth() {
+		
+	}
 
 }
