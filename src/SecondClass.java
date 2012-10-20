@@ -9,7 +9,7 @@ public class SecondClass {
 	}
 	
 	public void doSmth() {
-		
+		System.out.println("test");
 	}
 
 }
