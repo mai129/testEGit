@@ -11,6 +11,13 @@ public class SecondClass {
 	public void doSmth() {
 		System.out.println("Alex");
 		System.out.println("test");
+		
+		int k=5;
+		
+		int y= 7+k;
+		
+		k = k + y;
+				
 	}
 
 }
