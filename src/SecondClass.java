@@ -19,5 +19,9 @@ public class SecondClass {
 		k = k + y;
 				
 	}
+	
+	public void testMethod() {
+		System.out.println("Just a test");
+	}
 
 }
