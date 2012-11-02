@@ -19,5 +19,10 @@ public class SecondClass {
 		k = k + y;
 				
 	}
+	
+	public void teo1(){
+		int k=5;
+		
+	}
 
 }
