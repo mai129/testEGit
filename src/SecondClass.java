@@ -20,9 +20,14 @@ public class SecondClass {
 				
 	}
 	
+
 	public void teo1(){
 		int k=5;
-		
+	}
+
+	public void testMethod() {
+		System.out.println("Just a test");
+
 	}
 
 }
