@@ -7,9 +7,16 @@ public class SecondClass {
 	}
 	
 
-	/**
-	 * @param args
-	 */
+
+	public void pappasMethod (){
+		System.out.println ("My method is complete");
+	}
+
+
+
+	public void sayHello1(){
+		System.out.println("Hello world");
+	}
 	public void foo() {
 		
 	}
@@ -29,7 +36,9 @@ public class SecondClass {
 		k = k + y;
 				
 	}
-	
+	public void sayHello(){
+		System.out.println("Hello world");
+	}
 
 	public void teo1(){
 		int k=5;
