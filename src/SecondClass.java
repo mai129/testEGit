@@ -4,7 +4,7 @@ public class SecondClass {
 	public void testMethod1() {
 		System.out.println("test Method");
 		System.out.println("PAO");
-		System.out.println("Aris Reeee...!!!");
+		System.out.println("Paris Reeee...!!!");
 	}
 	
 
