@@ -5,6 +5,9 @@ public class SecondClass {
 		System.out.println("test Method");
 	}
 
+	public void sayHello(){
+		System.out.println("Hello world");
+	}
 	/**
 	 * @param args
 	 */
