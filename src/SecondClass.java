@@ -4,6 +4,10 @@ public class SecondClass {
 	public void testMethod1() {
 		System.out.println("test Method");
 	}
+	
+	public void pappasMethod (){
+		System.out.println ("My method is complete");
+	}
 
 	/**
 	 * @param args
