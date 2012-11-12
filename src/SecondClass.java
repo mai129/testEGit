@@ -32,7 +32,9 @@ public class SecondClass {
 		k = k + y;
 				
 	}
-	
+	public void sayHello(){
+		System.out.println("Hello world");
+	}
 
 	public void teo1(){
 		int k=5;
