@@ -12,6 +12,10 @@ public class SecondClass {
 		
 	}
 	
+	public void mai128(){
+		System.out.println("mai128");
+	}
+	
 	public void doSmth() {
 		System.out.println("Alex");
 		System.out.println("test");
