@@ -3,11 +3,14 @@ public class SecondClass {
 	
 	public void testMethod1() {
 		System.out.println("test Method");
+		System.out.println("ARIS");
 	}
 	
+
 	public void pappasMethod (){
 		System.out.println ("My method is complete");
 	}
+
 
 	/**
 	 * @param args
