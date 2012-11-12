@@ -1,5 +1,9 @@
 
 public class SecondClass {
+	
+	public void testMethod1() {
+		System.out.println("test Method");
+	}
 
 	/**
 	 * @param args
